@@ -1,0 +1,8 @@
+{
+  "name": "shopify-project",
+  "author": "Cody Christ <cr999c999@gmail.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
